@@ -1,0 +1,18 @@
+2024-02-21 15:17:17.036 [info] Log level: Info
+2024-02-21 15:17:17.036 [info] Validating found git in: "/usr/bin/git"
+2024-02-21 15:17:17.036 [info] Using git "2.39.3 (Apple Git-145)" from "/usr/bin/git"
+2024-02-21 15:18:43.948 [info] Log level: Info
+2024-02-21 15:18:43.951 [info] Validating found git in: "/usr/bin/git"
+2024-02-21 15:18:43.965 [info] Using git "2.39.3 (Apple Git-145)" from "/usr/bin/git"
+2024-02-21 15:18:43.974 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:43.974 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-21 15:18:43.980 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:43.980 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-21 15:18:43.986 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:43.986 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-21 15:18:43.992 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:43.992 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-21 15:18:43.998 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:43.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-21 15:18:44.020 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-21 15:18:44.020 [info] fatal: not a git repository (or any of the parent directories): .git
