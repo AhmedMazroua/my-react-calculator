@@ -1,29 +1,11 @@
+import DigitalButton from "./DigiButton";
+import OperationButton from "./OperationButton";
 import { useReducer } from "react";
 import "./index.css";
 
-function DigitalButton({ dispatch, digit }) {
-  return (
-    <button
-      onClick={() => dispatch({ type: ACTIONS.ADD_DIGIT, payload: { digit } })}
-    >
-      {digit}
-    </button>
-  );
-}
 
-function OperationButton({ dispatch, operation }) {
-  return (
-    <button
-      onClick={() =>
-        dispatch({ type: ACTIONS.CHOOSE_OPERATION, payload: { operation } })
-      }
-    >
-      {operation}
-    </button>
-  );
-}
 
-const ACTIONS = {
+export const ACTIONS = {
   ADD_DIGIT: "add-digit",
   CHOOSE_OPERATION: "choose-operation",
   CLEAR: "clear",
