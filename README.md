@@ -1,6 +1,6 @@
 # Node.js + React + TypeScript + Vite
 
-This is a Visually stimulating calculator developed with TypeScript and React.Js.
+This is a Visually stimulating calculator developed with Javascript and React.Js.
 
 The project supports basic mathematical operations.
 
