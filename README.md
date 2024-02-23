@@ -1,4 +1,4 @@
-# React Sunset Calculator Node.js + React + TypeScript + Vite
+# React Sunset Calculator Node.js + React + JavaScript + Vite
 
 This is a Visually stimulating calculator developed with Javascript and React.Js.
 
