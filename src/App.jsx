@@ -145,7 +145,7 @@ function App() {
       <button onClick={() => dispatch({ type: ACTIONS.DELETE_DIGIT })}>
         DEL
       </button>
-      <DigitalButton digit="%" dispatch={dispatch} />
+      <OperationButton operation="÷" dispatch={dispatch} />
       <DigitalButton digit="1" dispatch={dispatch} />
       <DigitalButton digit="2" dispatch={dispatch} />
       <DigitalButton digit="3" dispatch={dispatch} />
