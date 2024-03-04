@@ -23,4 +23,4 @@ To run the project download all of the dependencies needed (Node.js, React.js,),
 npm dev run
 ```
 
-Or check out the project at this link:[ https://ahmedmazroua.github.io/my-react-calculator/](https://ahmedmazroua.github.io/my-react-calculator/)https://ahmedmazroua.github.io/my-react-calculator/
+Or check out the project at this link: https://ahmedmazroua.github.io/my-react-calculator/
