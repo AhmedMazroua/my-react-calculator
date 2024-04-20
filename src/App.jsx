@@ -3,8 +3,6 @@ import OperationButton from "./OperationButton";
 import { useReducer } from "react";
 import "./index.css";
 
-
-
 export const ACTIONS = {
   ADD_DIGIT: "add-digit",
   CHOOSE_OPERATION: "choose-operation",
@@ -105,7 +103,7 @@ function evaluate({ currentOperand, previousOperand, operation }) {
     case "*":
       computation = prev * current;
       break;
-    case "%":
+    case "÷":
       computation = prev / current;
       break;
   }
